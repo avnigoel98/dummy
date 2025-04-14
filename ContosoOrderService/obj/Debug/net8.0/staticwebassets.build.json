@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6bUE+jVnlr+8n38tYBNCuIqDm+LC7FIcxSJ4sb7Nl0w=",
+  "Source": "ContosoOrderService",
+  "BasePath": "_content/ContosoOrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

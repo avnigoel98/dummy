@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\microservices_accelerator\\aps_microservices_accelerator\\ContosoOrderService\\ContosoOrderService.csproj",
+      "projectUniqueName": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\docker test\\dummy\\ContosoOrderService\\ContosoOrderService.csproj",
       "projectName": "ContosoOrderService",
-      "projectPath": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\microservices_accelerator\\aps_microservices_accelerator\\ContosoOrderService\\ContosoOrderService.csproj",
+      "projectPath": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\docker test\\dummy\\ContosoOrderService\\ContosoOrderService.csproj",
       "packagesPath": "C:\\Users\\agoel1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\microservices_accelerator\\aps_microservices_accelerator\\ContosoOrderService\\obj\\",
+      "outputPath": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\docker test\\dummy\\ContosoOrderService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

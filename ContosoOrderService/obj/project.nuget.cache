@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nk3WCjf+BRo=",
+  "dgSpecHash": "hZMdFIzHSqk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\docker test\\dummy\\ContosoOrderService\\ContosoOrderService.csproj",
+  "projectFilePath": "C:\\Users\\agoel1\\OneDrive - Insight\\Desktop\\microservices_accelerator\\aps_microservices_accelerator\\ContosoOrderService\\ContosoOrderService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agoel1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\agoel1\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
